@@ -6,4 +6,5 @@ int main() {
     printf("Hello!\n");
     return 0;
     //Goose
+    // goose += 1
 }
